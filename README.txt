@@ -1,3 +1,7 @@
+Just dumping this here so I can have a look at the source code later as I've read this is a good example of clean code.
+-----------------------------------------------------------------------------------------------------------------------
+
+
 Doom 3 BFG Edition GPL Source Code
 ==================================
 
